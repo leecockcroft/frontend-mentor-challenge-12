@@ -75,6 +75,7 @@ letter-spacing: .0268rem;
 
 .form-wrapper{
   background:#fff;
+      border-radius: 1rem;
 }
 
 form {
@@ -140,11 +141,17 @@ body{
   51.04%;
 }
 
+
+form {
+      padding: 2.4rem 4rem;
+}
 .main-text h1 {
 text-align:left;
 
 }
-
+.top-button{
+  height:6rem;
+}
 
 
 .main-text {
